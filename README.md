@@ -15,6 +15,10 @@ for now by using the terminal write
 ```laravel
 php artisan backup:run
 ```
+
+`<b>Note:<b>` if you don't configure your database properly it will not work. so first make sure 
+              that your database configuration is all setup.
+              
 open using the browser
 ```
 php artisan serve
